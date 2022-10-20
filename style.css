@@ -1,7 +1,7 @@
 iframe{
-    max-width: 1300px;
-    min-width: 400px;
+    width: 95vw;
     max-height: 1300px;
-    min-height: 500px;
+    min-height: 300px;
     margin: 0 auto;
+    border: 2px black;
 }
